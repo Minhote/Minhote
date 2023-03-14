@@ -7,7 +7,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Minhote&show_icons=true&count_private=true&hide_border=true&title_color=4169E14&icon_color=4169E14&text_color=b0c4de&bg_color=0d1117" alt="Erick Icaza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhote&layout=compact&hide_border=true&title_color=4169E1&text_color=b0c4de&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhote&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
 </div>
 
  ### Main skills:
